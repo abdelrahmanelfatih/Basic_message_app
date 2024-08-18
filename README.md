@@ -5,6 +5,7 @@ this is a basic socket program in C++ that sends a message from a client to a se
 -client.cpp:
 this cpp file containes the client(the messager part of the program) 
 the client sends a message of choice to the server.
+
 -make sure to change "YOUR_PUBLIC_IP" to your friend's public IP adress. and if you want to send it to yourself change it to "127.0.0.1" your local IP adress.
 
 # How to run
